@@ -1,0 +1,18 @@
+.elementor-818 .elementor-element.elementor-element-45452fa {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+}
+
+.elementor-818 .elementor-element.elementor-element-45452fa:not(.elementor-motion-effects-element-type-background),
+.elementor-818 .elementor-element.elementor-element-45452fa>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #030000;
+}
+
+.elementor-818 .elementor-element.elementor-element-93c43cf li:not(:last-child) {
+    margin-bottom: 7px;
+}
